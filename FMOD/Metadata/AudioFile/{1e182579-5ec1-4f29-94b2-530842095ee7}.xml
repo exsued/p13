@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{1e182579-5ec1-4f29-94b2-530842095ee7}">
+		<property name="assetPath">
+			<value>tesla_on.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.0155102040816324</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{4571777c-a305-4941-81da-9e9c0bd44abc}</destination>
+		</relationship>
+	</object>
+</objects>

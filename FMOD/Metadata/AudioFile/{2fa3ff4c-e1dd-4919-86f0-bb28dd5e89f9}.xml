@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{2fa3ff4c-e1dd-4919-86f0-bb28dd5e89f9}">
+		<property name="assetPath">
+			<value>surdeus - desert_road.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>183.45599999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{4571777c-a305-4941-81da-9e9c0bd44abc}</destination>
+		</relationship>
+	</object>
+</objects>
